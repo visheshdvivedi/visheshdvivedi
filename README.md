@@ -62,11 +62,3 @@
 ➡️ [more blog posts...](https://dev.to/visheshdvivedi)
 
 ---
-
-[youtube](https://youtube.com/allaboutpython)\
-[twitter](https://twitter.com/allabout_python)\
-[instagram](https://instagram.com/itsallaboutpython)\
-[linkedin](https://www.linkedin.com/in/vishesh-dvivedi-07a82a20b/)\
-[Chat Application In Python Playlist](https://www.youtube.com/watch?v=hBnOdIg0jAM&list=PLIw91yhFTTdJ2CDjOptoF-ddXbw7wmet-)\
-[Python Automation Playlist](https://www.youtube.com/watch?v=Nlc0eFDnx6E&list=PLIw91yhFTTdK2-DPtMIuucvxy478j8CHj)\
-[Class 11 CS Playlist](https://www.youtube.com/watch?v=53sKj2UYoAk&list=PLIw91yhFTTdIwV1NYNbVEhwjIJlWzjP-y)
