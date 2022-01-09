@@ -9,7 +9,7 @@
 - 🔭 I created a Discord Server for all Python enthusiasts: [All About Python's Server](https://discord.gg/MUE7fkxzHH)!
 - 🌱 I’m currently mastering Python Web Development
 - 👯 I’m looking to collaborate with other content creators, developers and learners
-- 🥅 2021 Goals: Find and interact with more like minded people
+- 🥅 2022 Goals: Find and interact with more like minded people
 - ⚡ Fun fact: I can play decent piano (Fur Elise and stuff)
 
 ### Connect with me:
